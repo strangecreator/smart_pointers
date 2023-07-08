@@ -1,2 +1,2 @@
-# smart_pointers
+# Smart Pointers
 Shared Pointer + Weak Pointer implementation.
